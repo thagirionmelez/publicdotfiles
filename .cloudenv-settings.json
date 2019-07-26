@@ -1,0 +1,4 @@
+{
+    "serviceEndpoint": "https://online.dev.core.vsengsaas.visualstudio.com/api/environment/registration",
+    "containerName": "cloudenv-dev"
+}

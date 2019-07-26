@@ -1,0 +1,4 @@
+{
+    "serviceEndpoint": "http://localhost:5000/api/registration",
+    "containerName": "cloudenv-dev"
+}
