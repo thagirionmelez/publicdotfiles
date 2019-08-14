@@ -1,9 +1,0 @@
-[core]
-	editor = \"C:\\Users\\EDGON\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\Code - Insiders.exe\" --wait
-	autocrlf = true
-[user]
-	name = Edmundo Gonzalez
-	email = edgon@microsoft.com
-[gui]
-	recentrepo = C:/Users/EDGON/Desktop/PROTOTYPES/Cascade
-	recentrepo = C:/Users/EDGON/Desktop/DEV/Cascade
